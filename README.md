@@ -1,6 +1,6 @@
 Pedagogické portfolio <br>
-Magisterské studium <br>
-Bc. Lucie Bryndová (D41758) <br>
+Bakalářské studium <br>
+Ing. Kateřina Pospíšilová <br>
 Katedra technické a informační výchovy <br>
 Pedagogická fakulta, UPOL
 
